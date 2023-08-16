@@ -2,9 +2,8 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Azure/Cloud Projects</b>
-  - [Creating a Live SOC/Honeynet in Azure](https://github.com/jduran0300/Azure-SOC) 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Creating a Live SOC/Honeynet in Azure](https://github.com/jduran0300/Azure-SOC) <br>
+    
   - [Virtual Active Directory Setup](https://github.com/jduran0300/Virtual-Active-Directory-Environment-Setup) <b><i></b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
