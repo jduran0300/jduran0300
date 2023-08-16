@@ -6,7 +6,7 @@
     
   - [Virtual Active Directory Setup](https://github.com/jduran0300/Virtual-Active-Directory-Environment-Setup) <b><i></b></i>
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Creating a File Integrity Monitoring System with Powershell](https://github.com/jduran0300/File-Integrity-Monitoring-System)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
