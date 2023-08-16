@@ -4,11 +4,10 @@
 
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/jduran0300/Azure-SOC) <br>
     
-  - [Virtual Active Directory Setup](https://github.com/jduran0300/Virtual-Active-Directory-Environment-Setup) <b><i></b></i>
-- <b>PowerShell</b>
-  - [Creating a File Integrity Monitoring System with Powershell](https://github.com/jduran0300/File-Integrity-Monitoring-System)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Virtual Active Directory Setup](https://github.com/jduran0300/Virtual-Active-Directory-Environment-Setup) <br>
+  
+  - [Creating a File Integrity Monitoring System with Powershell](https://github.com/jduran0300/File-Integrity-Monitoring-System)<br>
+  
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
