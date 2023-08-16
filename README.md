@@ -7,8 +7,6 @@
   - [Virtual Active Directory Setup](https://github.com/jduran0300/Virtual-Active-Directory-Environment-Setup) <br>
   
   - [Creating a File Integrity Monitoring System with Powershell](https://github.com/jduran0300/File-Integrity-Monitoring-System)<br>
-  
-  - [FIM (File Integrity Monitor)](https://github.com/jduran0300/File-Integrity-Monitoring-System) <br>
 
   - [Windows Defender Setup](https://github.com/jduran0300/Windows-Defender-and-Firewall-Configuration)
 
