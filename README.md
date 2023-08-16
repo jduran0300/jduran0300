@@ -1,4 +1,4 @@
-<h1>Hi, I'm Justin! <br/><a href="https://github.com/jduran0300">Cybersecurity Professional</a> <a href="www.linkedin.com/in/justin-duran-44a8bb263"></a> </h1>
+<h1>Hi, I'm Justin! <br/>Cybersecurity Professional </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
